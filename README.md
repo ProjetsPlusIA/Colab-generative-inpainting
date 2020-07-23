@@ -1,5 +1,10 @@
 # Generative Image Inpainting
 
+#### Important information
+
+- If you can't open `Colab-deepfillv2.ipynb` inside your Google Drive, try this [colab link](https://colab.research.google.com/github/styler00dollar/Colab-generative-inpainting/blob/master/Colab-deepfillv2.ipynb) and save it to your Google Drive. The "open in Colab"-button can be missing in Google Drive, if that person never used Colab.
+- The Google Colab VM does have a maximum session length of 12 hours. Additionally there is a 30 minute timeout if you leave colab. The VM will be deleted after these timeouts.
+
 ![version](https://img.shields.io/badge/version-v2.0.0-green.svg?style=plastic)
 ![pytorch](https://img.shields.io/badge/tensorflow-v1.7.0-green.svg?style=plastic)
 ![license](https://img.shields.io/badge/license-CC_BY--NC-green.svg?style=plastic)
